@@ -1,7 +1,7 @@
 {
   "ads": {
     "enabled": true,
-    "bannerEnabled": false,
+    "bannerEnabled": true,
     "interstitialEnabled": true,
     "nativeEnabled": false,
     "interstitialCooldownHours": 3
