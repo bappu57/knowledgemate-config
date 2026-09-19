@@ -8,8 +8,8 @@
   },
 
   "forceUpdate": {
-    "enabled": false,
-    "minVersionCode": 1,
+    "enabled": true,
+    "minVersionCode": 5,
     "title": "নতুন সংস্করণ উপলভ্য",
     "message": "KnowledgeMate-এর নতুন সংস্করণ ইনস্টল করুন।",
     "button": "Update Now",
