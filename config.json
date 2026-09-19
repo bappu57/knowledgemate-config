@@ -3,7 +3,7 @@
     "enabled": true,
     "bannerEnabled": true,
     "interstitialEnabled": true,
-    "nativeEnabled": false,
+    "nativeEnabled": true,
     "interstitialCooldownHours": 3
   },
 
