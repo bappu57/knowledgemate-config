@@ -1,6 +1,6 @@
 {
   "ads": {
-    "enabled": false,
+    "enabled": true,
     "bannerEnabled": true,
     "interstitialEnabled": true,
     "nativeEnabled": true,
@@ -8,9 +8,9 @@
   },
 
   "forceUpdate": {
-    "enabled": false,
+    "enabled": true,
     "minVersionCode": 5,
-    "title": "নতুন সংস্করণ উপলভ্য",
+    "title": "অ্যাপটির নতুন সংস্করণ এসেছে",
     "message": "KnowledgeMate-এর নতুন সংস্করণ ইনস্টল করুন।",
     "button": "Update Now",
     "updateUrl": ""
